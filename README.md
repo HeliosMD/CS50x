@@ -1,2 +1,2 @@
 # CS50x
-HardvardX Introduction to Computer Science Problem Set Repository.
+HardvardX Introduction to Computer Science Laboratory and Problem Set Repository.
