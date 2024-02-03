@@ -1,0 +1,12 @@
+sort1 uses: bubble sort
+
+How do you know?: Longer time to sort reversed5000.txt (worse case), O(n²+2n-1). Shorter time to sort sorted5000.txt (best case), Ω(n-1).
+
+sort2 uses: merge sort
+
+How do you know?: Faster time than selection sort. Aproximately same time to sort to sort reversed5000.txt (worse case) and sorted5000.txt (best case), Θ(n log n).
+
+sort3 uses: selection sort
+
+How do you know?: Time in between merge and bubble. Aproximately same time to sort reversed5000.txt and sorted5000.txt, Θ(n²).
+
